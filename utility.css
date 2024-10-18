@@ -1,0 +1,81 @@
+.curve{
+    border-radius: 10px;
+}
+.padding{
+    padding: 10px;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify_center{
+    justify-content: center;
+}
+
+.item-center{
+    align-items: center;
+}
+.invert{
+    filter: invert(1);
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.bg-grey{
+    background-color: #121212;
+    
+}
+.bg-white{
+    color: white;
+    background-color: white;
+}
+
+.m-1{
+    margin: 8px ;
+}
+.m-2{
+    margin: 8px 8px 8px 0;
+}
+.m-3{
+    margin:8px;
+    margin-top: 0;
+}
+
+
+/* For Webkit browsers (Chrome, Safari, etc.) */
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #1e1e1e;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #525252;
+    border-radius: 6px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #535252;
+  }
+  
+  /* For Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #424141 #1e1e1e;
+  }
+  
+  /* For Internet Explorer and Edge */
+  body {
+    scrollbar-face-color: #888;
+    scrollbar-track-color: #1e1e1e;
+    scrollbar-arrow-color: #888;
+    scrollbar-shadow-color: #888;
+  }
+
+
+  /* https://fundedmango.wixsite.com/funded-mango/product-page/wealth-building-strategy-session */
